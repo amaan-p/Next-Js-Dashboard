@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
     POSTGRES_USER=
     POSTGRES_HOST=
     POSTGRES_PASSWORD=
-    POSTGRES_DATABASE="verceldb"
+    POSTGRES_DATABASE=
     AUTH_SECRET=
     AUTH_URL=http://localhost:3000/api/auth
    ```
