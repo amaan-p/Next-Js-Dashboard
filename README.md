@@ -1,15 +1,18 @@
 
 # Next.js Dashboard App
 
-This project is a robust and responsive dashboard application built with Next.js, Tailwind CSS, and NextAuth.js for authentication. It utilizes PostgreSQL for data management via Vercel's platform.
+This project is a robust and responsive dashboard application built with Next.js, Tailwind CSS, and NextAuth.js for authentication. It utilizes PostgreSQL for data management via Vercel's platform. This Project was made using Next.js Docs.
+
 
 ## Screenshots
 
 ### Login Page
-![Login Page](./assets/dashboard_login.png)
+![Login Page](![image](https://github.com/amaan-p/Next-Js-Dashboard/assets/98171563/1bf262ec-12fa-41d9-85b2-3c501a20d93d)
+)
 
 ### Home Page
-![Home Page](./assets/dashboard_home.png)
+![Home Page](![image](https://github.com/amaan-p/Next-Js-Dashboard/assets/98171563/fd4fdb8b-f4fb-4a4b-80dd-1841dc6c8d29)
+)
 
 ## Features
 
@@ -33,7 +36,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/amaan-p/Next-Js-Dashboard.git
-   cd your-repo-name
+   cd Next-Js-Dashboard
    ```
 
 2. **Install required packages**:
@@ -62,6 +65,13 @@ To run this project locally, follow these steps:
    ```
 
    By default, Next.js will run the app on [http://localhost:3000](http://localhost:3000).
+
+5. **Credentials**
+   To Login use:
+   ```
+   email: user@nextmail.com
+   password: 123456
+   ```
 
 ## Usage
 
