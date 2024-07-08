@@ -6,13 +6,15 @@ This project is a robust and responsive dashboard application built with Next.js
 
 ## Screenshots
 
-### Login Page
-![Login Page](![image](https://github.com/amaan-p/Next-Js-Dashboard/assets/98171563/1bf262ec-12fa-41d9-85b2-3c501a20d93d)
-)
+<h3 align="center">Login Page</h3>
 
-### Home Page
-![Home Page](![image](https://github.com/amaan-p/Next-Js-Dashboard/assets/98171563/fd4fdb8b-f4fb-4a4b-80dd-1841dc6c8d29)
-)
+![Login Page](https://github.com/amaan-p/Next-Js-Dashboard/assets/98171563/1bf262ec-12fa-41d9-85b2-3c501a20d93d)
+
+
+<h3 align="center">Home Page</h3>
+
+![Home Page](https://github.com/amaan-p/Next-Js-Dashboard/assets/98171563/fd4fdb8b-f4fb-4a4b-80dd-1841dc6c8d29)
+
 
 ## Features
 
